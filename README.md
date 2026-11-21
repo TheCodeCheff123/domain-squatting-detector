@@ -36,6 +36,8 @@ Targets must be YAML list items, with a space after each dash:
 
 ```yaml
 targets:
+  - newlinkigadgets.com
+  - tesla.com
   - example.com
   - another-example.net
 ```
