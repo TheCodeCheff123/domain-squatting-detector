@@ -1,0 +1,1 @@
+"""Domain squatting detector modules."""

@@ -1,0 +1,20 @@
+
+
+targets:
+  - tesla.com
+
+replacement_tlds:
+  - com
+  - net
+  - org
+  - io
+  - co
+
+thresholds:
+  dns_timeout_seconds: 3
+  cert_check_limit: 100
+  dns_check_limit: 1000
+
+output:
+  format: json
+  directory: output

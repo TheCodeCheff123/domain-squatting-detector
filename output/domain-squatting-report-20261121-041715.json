@@ -1,0 +1,706 @@
+[
+  {
+    "candidate": "tesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "2.18.52.207",
+      "2.18.55.207",
+      "2.18.54.207",
+      "2.18.48.207",
+      "23.7.244.207",
+      "2.18.53.207",
+      "2.18.51.207",
+      "2.18.49.207",
+      "2.18.50.207",
+      "23.40.100.207"
+    ],
+    "aaaa": [],
+    "mx": [
+      "10 tesla-com.mail.protection.outlook.com"
+    ],
+    "ns": [
+      "a1-12.akam.net",
+      "a28-65.akam.net",
+      "a9-67.akam.net",
+      "a7-66.akam.net",
+      "a10-67.akam.net",
+      "a12-64.akam.net",
+      "edns69.ultradns.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "esla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "217.76.130.61"
+    ],
+    "aaaa": [],
+    "mx": [
+      "10 mx.serviciodecorreo.es"
+    ],
+    "ns": [
+      "dns1.serv542447.servidoresdns.net",
+      "dns2.serv542447.servidoresdns.net"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "resla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "216.24.57.1"
+    ],
+    "aaaa": [],
+    "mx": [
+      "5 alt2.aspmx.l.google.com",
+      "10 alt3.aspmx.l.google.com",
+      "1 aspmx.l.google.com",
+      "5 alt1.aspmx.l.google.com",
+      "10 alt4.aspmx.l.google.com"
+    ],
+    "ns": [
+      "ns-745.awsdns-29.net",
+      "ns-463.awsdns-57.com",
+      "ns-1169.awsdns-18.org",
+      "ns-1824.awsdns-36.co.uk"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "yesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "15.197.148.33",
+      "3.33.130.190"
+    ],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "ns41.domaincontrol.com",
+      "ns42.domaincontrol.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "gesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "35.182.118.42",
+      "16.54.163.117"
+    ],
+    "aaaa": [],
+    "mx": [
+      "1 mx1.ewebdevelopment.com",
+      "5 mx2.ewebdevelopment.com"
+    ],
+    "ns": [
+      "ns1.power-dns.com",
+      "ns3.power-dns.com",
+      "ns2.power-dns.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "fesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "104.143.9.210",
+      "104.143.9.211"
+    ],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "ns3.directnic.com",
+      "ns1.directnic.com",
+      "ns2.directnic.com",
+      "ns0.directnic.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "etsla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "taesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "aaaa": [],
+    "mx": [
+      "0 "
+    ],
+    "ns": [
+      "ns2.afternic.com",
+      "ns1.afternic.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tbesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tcesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tdesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "teesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "165.154.113.20",
+      "154.85.60.150"
+    ],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "pk4.22.cn",
+      "pk3.22.cn"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tfesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tgesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "thesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "aaaa": [],
+    "mx": [
+      "0 "
+    ],
+    "ns": [
+      "ns2.afternic.com",
+      "ns1.afternic.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tiesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tjesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tkesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tlesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tmesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tnesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "toesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tpesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tqesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tresla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "185.230.63.107"
+    ],
+    "aaaa": [],
+    "mx": [
+      "1 smtp.google.com"
+    ],
+    "ns": [
+      "ns01.domaincontrol.com",
+      "ns02.domaincontrol.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tsesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "ttesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tuesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "3.33.130.190",
+      "15.197.148.33"
+    ],
+    "aaaa": [],
+    "mx": [
+      "10 mailstore1.secureserver.net",
+      "0 smtp.secureserver.net"
+    ],
+    "ns": [
+      "ns16.domaincontrol.com",
+      "ns15.domaincontrol.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tvesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "twesla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "103.224.182.252"
+    ],
+    "aaaa": [],
+    "mx": [
+      "10 park-mx.above.com"
+    ],
+    "ns": [
+      "ns4.abovedomains.com",
+      "ns3.abovedomains.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "txesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tyesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "tzesla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t0esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t1esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t2esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t3esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t4esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t5esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t6esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t7esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t8esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t9esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t-esla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "eric.ns.cloudflare.com",
+      "carlane.ns.cloudflare.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tsla.com",
+    "source_domain": "tesla.com",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "edns69.ultradns.com",
+      "edns69.ultradns.net",
+      "edns69.ultradns.biz",
+      "edns69.ultradns.org"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "trsla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "103.224.182.245"
+    ],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "ns2.abovedomains.com",
+      "ns1.abovedomains.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tdsla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "76.223.105.230",
+      "13.248.243.5"
+    ],
+    "aaaa": [],
+    "mx": [
+      "0 tdsla-com.mail.protection.outlook.com"
+    ],
+    "ns": [
+      "ns51.domaincontrol.com",
+      "ns52.domaincontrol.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "tssla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "198.49.23.145",
+      "198.185.159.144",
+      "198.185.159.145",
+      "198.49.23.144"
+    ],
+    "aaaa": [],
+    "mx": [
+      "10 tssla-com.mail.eo.outlook.com"
+    ],
+    "ns": [
+      "ns23.worldnic.com",
+      "ns24.worldnic.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "twsla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "103.224.182.244"
+    ],
+    "aaaa": [],
+    "mx": [
+      "10 park-mx.above.com"
+    ],
+    "ns": [
+      "ns2.abovedomains.com",
+      "ns1.abovedomains.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  },
+  {
+    "candidate": "t3sla.com",
+    "source_domain": "tesla.com",
+    "a": [
+      "15.197.225.128",
+      "3.33.251.168"
+    ],
+    "aaaa": [],
+    "mx": [],
+    "ns": [
+      "ns50.domaincontrol.com",
+      "ns49.domaincontrol.com"
+    ],
+    "cname": [],
+    "exists": true,
+    "certificates": []
+  }
+]

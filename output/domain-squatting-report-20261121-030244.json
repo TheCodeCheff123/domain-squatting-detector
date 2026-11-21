@@ -1,0 +1,156 @@
+[
+  {
+    "candidate": "-",
+    "source_domain": "-",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "h",
+    "source_domain": "h",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "t",
+    "source_domain": "t",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "p",
+    "source_domain": "p",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "s",
+    "source_domain": "s",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": ":",
+    "source_domain": ":",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "/",
+    "source_domain": "/",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "w",
+    "source_domain": "w",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "e",
+    "source_domain": "e",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "l",
+    "source_domain": "l",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "a",
+    "source_domain": "a",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "c",
+    "source_domain": "c",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "o",
+    "source_domain": "o",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  },
+  {
+    "candidate": "m",
+    "source_domain": "m",
+    "a": [],
+    "aaaa": [],
+    "mx": [],
+    "ns": [],
+    "cname": [],
+    "exists": false,
+    "certificates": []
+  }
+]
